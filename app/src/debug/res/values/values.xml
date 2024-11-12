@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">381172600882-5hs5klkql9ecf0si7c22tfsehucnj4nd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">381172600882</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJ4wd7QSNBtWASR2YvsREDl8026hwNrZg</string>
+    <string name="google_app_id" translatable="false">1:381172600882:android:5c76ba6e566688692c6c2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJ4wd7QSNBtWASR2YvsREDl8026hwNrZg</string>
+    <string name="google_storage_bucket" translatable="false">blinkpad-app.appspot.com</string>
+    <string name="project_id" translatable="false">blinkpad-app</string>
+</resources>

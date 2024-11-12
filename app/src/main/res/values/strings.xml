@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlinkPad</string>
+    <string name="facebook_app_id">285893644280438</string>
+    <string name="fb_login_protocol_scheme">fb285893644280438</string>
+    <string name="facebook_client_token">904733648796c2f41a1826c57282c8f5</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>

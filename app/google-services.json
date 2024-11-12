@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "381172600882",
+    "project_id": "blinkpad-app",
+    "storage_bucket": "blinkpad-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381172600882:android:75f9c8dbf78fb2b22c6c2b",
+        "android_client_info": {
+          "package_name": "com.nocountry.blinkpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381172600882-261s8nmf5sa8vqcdeqbett74ukcff819.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nocountry.blinkpad",
+            "certificate_hash": "f188448d2b0d15d231261ca749600d225793ece2"
+          }
+        },
+        {
+          "client_id": "381172600882-5hs5klkql9ecf0si7c22tfsehucnj4nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4wd7QSNBtWASR2YvsREDl8026hwNrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381172600882-5hs5klkql9ecf0si7c22tfsehucnj4nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381172600882:android:5c76ba6e566688692c6c2b",
+        "android_client_info": {
+          "package_name": "com.nocountry.blinkpad.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381172600882-5hs5klkql9ecf0si7c22tfsehucnj4nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4wd7QSNBtWASR2YvsREDl8026hwNrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381172600882-5hs5klkql9ecf0si7c22tfsehucnj4nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
